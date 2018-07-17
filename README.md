@@ -1,3 +1,7 @@
 # Exmeples of source code on JAVA
 
-Denisov Alexander
+### Java Developer
+
+Denisov Alexander (https://www.linkedin.com/in/alexander-denisov-43888aa8/)
+
+
