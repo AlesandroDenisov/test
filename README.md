@@ -1,4 +1,4 @@
-# Exmeples of source code on JAVA
+# Examples of source code on JAVA
 
 ### Java Developer
 
